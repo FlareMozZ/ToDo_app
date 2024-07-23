@@ -1,2 +1,2 @@
-# Quiz_app
-A quiz app made on flutter with random question sequence and answer checkout
+# todo_app
+A todo app made on flutter with hive local storage
